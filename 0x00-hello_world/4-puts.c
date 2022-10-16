@@ -1,2 +1,2 @@
 #!/bin/bash
-ks
+Programming is like building a multilingual puzzle
