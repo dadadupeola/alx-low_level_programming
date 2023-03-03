@@ -25,4 +25,3 @@ All of the following files are programs written in C:
 | 10-add.c | This adds two integers and returns the result |
 | 11-print_to_98.c | This prints all the natural numberss from 'n' to 98 |
 | 100-times_table.c | This prints the 'n'times table, starting with 0 |
-@@@

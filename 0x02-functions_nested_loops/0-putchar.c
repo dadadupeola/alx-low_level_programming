@@ -1,20 +1,18 @@
 #include "main.h"
 /**
- * main - this prints _putchar
- * This is written by Dada
- * Return: 0
+ * main - Entry point
+ * Description: 'prints _putchar to stdout'
+ * Return: always O
  */
-
 int main(void)
 {
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
-return (0);
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 }
