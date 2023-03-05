@@ -2,9 +2,9 @@
 
 
 /**
- * main - Prints the sum of Even Fibonacci numbers
+ * main - Prints the sum of Even fibonacci numbers
  * less than 4000000.
- * Return: Nothing!
+ * Return: nothing!
  */
 
 
@@ -18,7 +18,7 @@ int main(void)
 	{
 	k += j;
 	if (k % 2 == 0)
-	sum == k;
+	sum += k;
 	j = k - j;
 	++i;
 	}
